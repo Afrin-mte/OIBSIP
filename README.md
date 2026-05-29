@@ -231,7 +231,7 @@ Alternatively, each notebook can be opened directly in Google Colab.
 ## Connect
 
 - GitHub: https://github.com/Afrin-mte
-- LinkedIn: https://www.linkedin.com/in/afrin-mte
+
 
 ---
 

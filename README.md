@@ -1,4 +1,4 @@
-# Data Analytics Internship - Oasis Infobyte (OIBSIP)
+# Data Analytics Internship - Synent Technologies 
 
 A collection of 9 Data Analytics projects completed during the Oasis Infobyte Virtual Internship Program. Projects are organized across two difficulty levels, covering real-world datasets and industry-relevant techniques using Python.
 
@@ -10,8 +10,8 @@ A collection of 9 Data Analytics projects completed during the Oasis Infobyte Vi
 |---|---|
 | Name | Afrin |
 | Program | Data Analytics Internship |
-| Organization | Oasis Infobyte |
-| Website | www.oasisinfobyte.com |
+| Organization | Synent Technologies |
+| Website | www.synenttechnologies.com |
 | Duration | 4 Weeks |
 | Levels Completed | Level 1 and Level 2 |
 

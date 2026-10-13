@@ -1,6 +1,6 @@
 # Data Analytics Internship - Synent Technologies 
 
-A collection of 9 Data Analytics projects completed during the Oasis Infobyte Virtual Internship Program. Projects are organized across two difficulty levels, covering real-world datasets and industry-relevant techniques using Python.
+A collection of 9 Data Analytics projects completed during the  Virtual Internship Program. Projects are organized across two difficulty levels, covering real-world datasets and industry-relevant techniques using Python.
 
 ---
 
